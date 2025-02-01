@@ -1,0 +1,13 @@
+accelerate
+torch
+diffusers
+pillow
+torchvision
+peft
+flask
+reactpy
+flask_cors
+flask_sock
+fastapi
+uvicorn
+transformers
